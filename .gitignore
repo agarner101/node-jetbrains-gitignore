@@ -1,4 +1,5 @@
 # Gitignore for both Node.js and JetBrains IDEs (Intellij, Webstorm, etc).
+# https://github.com/agarner101/node-jetbrains-gitignore
 # By Andrew Garner
 # Last modified 9-20-18
 
